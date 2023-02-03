@@ -1,4 +1,4 @@
-package com.trinityweareair.app
+package com.trinitywearaair.app
 
 import org.junit.Test
 
